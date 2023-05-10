@@ -1,0 +1,6 @@
+export { default as Home } from './home/Home'
+export { default as Fund } from './fund/Fund'
+export { default as Manage } from './manage/Manage'
+export { default as SmartManagement } from './smartManagement/SmartManagement'
+export { default as Tread } from './tread/Tread'
+export { default as YeildFarming } from './yeildFarming/YeildFarming'
